@@ -9,7 +9,7 @@ In this project we can perform many operations like-
 6. Transfer
 7. Quit
 
-Video link- https://youtu.be/LwZifPPEb7Q
+
 
 #java #development #intern #oasisinfobyte
    
